@@ -113,7 +113,14 @@ Unless otherwise stated, for each question:
 
   -Hint: You will need to use the aggregation method to answer this.
 
+
 The first 5 rows of your resulting DataFrame should look something like this:
 
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/a736721a-2bd6-4f19-9e50-4ffc71312a00" />
+
+
+  Resources:
+  1. Eric Simon
+  2. Past Classes
+  3. Stack Overflow
 
